@@ -1,0 +1,23 @@
+Mi compu
+
+
+=======================
+Entorno virtual 1
+pandas=2.5
+Django=3.2
+python-ckeditor=1.2
+
+=======================
+Entorno virtual 2
+pandas=4.2
+Django=4.0
+
+=======================
+
+proyecto "la posta"
+Entorno virtual 1
+
+=======================
+
+proyecto "Volvi como el fenix"
+Entorno virtual 2
